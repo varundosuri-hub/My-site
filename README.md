@@ -223,33 +223,83 @@ function toggleTheme(){
 
 </body>
 </html>
+
+
+</div>
 <div class="section">
 <h2>💰 Pricing Plans</h2>
 
+<!-- BASIC -->
 <div class="card">
 <h3>Basic Website</h3>
+
+<span style="
+background:#ff4d4d;
+color:white;
+padding:4px 10px;
+border-radius:6px;
+font-size:12px;
+">60% OFF</span>
+
 <p>✔ 1 Page Website</p>
 <p>✔ Mobile Friendly</p>
 <p>✔ Fast Delivery</p>
-<p><strong>₹999</strong></p>
+
+<p>
+<span style="text-decoration: line-through; color: gray;">₹999</span>
+<strong style="font-size:22px; margin-left:8px;">₹399</strong>
+</p>
+
 <a href="https://wa.me/919440640277?text=I want Basic Website" class="btn">Choose Plan</a>
 </div>
 
+
+<!-- STANDARD -->
 <div class="card" style="margin-top:20px;">
 <h3>Standard Website</h3>
+
+<span style="
+background:#ff4d4d;
+color:white;
+padding:4px 10px;
+border-radius:6px;
+font-size:12px;
+">50% OFF</span>
+
 <p>✔ 3-5 Pages Website</p>
 <p>✔ Modern Design</p>
 <p>✔ WhatsApp Integration</p>
-<p><strong>₹1999</strong></p>
+
+<p>
+<span style="text-decoration: line-through; color: gray;">₹1599</span>
+<strong style="font-size:22px; margin-left:8px;">₹799</strong>
+</p>
+
 <a href="https://wa.me/919440640277?text=I want Standard Website" class="btn">Choose Plan</a>
 </div>
 
+
+<!-- PREMIUM -->
 <div class="card" style="margin-top:20px;">
 <h3>Premium Website</h3>
+
+<span style="
+background:#ff4d4d;
+color:white;
+padding:4px 10px;
+border-radius:6px;
+font-size:12px;
+">40% OFF</span>
+
 <p>✔ Full Business Website</p>
 <p>✔ Advanced Design</p>
 <p>✔ SEO + Speed Optimized</p>
-<p><strong>₹3999</strong></p>
+
+<p>
+<span style="text-decoration: line-through; color: gray;">₹2499</span>
+<strong style="font-size:22px; margin-left:8px;">₹1499</strong>
+</p>
+
 <a href="https://wa.me/919440640277?text=I want Premium Website" class="btn">Choose Plan</a>
 </div>
 
